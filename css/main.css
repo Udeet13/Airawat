@@ -1746,7 +1746,7 @@ input::-moz-focus-inner {
   font-weight: 500;
   font-size: 1.4rem;
   line-height: 6rem;
-  padding-top: 1.2rem;
+  padding-top: 0.5rem;
   padding-bottom: 1.4rem;
   margin: 10;
   padding-left: 22%;
